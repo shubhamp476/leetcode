@@ -5,6 +5,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0326-power-of-three](https://github.com/shubhamp476/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamp476/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -14,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/shubhamp476/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/shubhamp476/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamp476/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
