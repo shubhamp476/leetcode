@@ -29,4 +29,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/shubhamp476/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/shubhamp476/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/shubhamp476/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/shubhamp476/leetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 <!---LeetCode Topics End-->
