@@ -26,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/shubhamp476/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/shubhamp476/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
