@@ -25,6 +25,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shubhamp476/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/shubhamp476/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Sorting
@@ -50,9 +51,14 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shubhamp476/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shubhamp476/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
