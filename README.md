@@ -5,6 +5,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shubhamp476/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0326-power-of-three](https://github.com/shubhamp476/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamp476/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
@@ -25,6 +26,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shubhamp476/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shubhamp476/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/shubhamp476/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -52,6 +54,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shubhamp476/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shubhamp476/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Simulation
