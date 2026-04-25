@@ -26,6 +26,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/shubhamp476/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/shubhamp476/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shubhamp476/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/shubhamp476/leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -50,6 +51,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/shubhamp476/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shubhamp476/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
