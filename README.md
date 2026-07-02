@@ -29,6 +29,7 @@
 | [0027-remove-element](https://github.com/shubhamp476/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/shubhamp476/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shubhamp476/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/shubhamp476/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0414-third-maximum-number](https://github.com/shubhamp476/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/shubhamp476/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -71,6 +72,11 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shubhamp476/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/shubhamp476/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/shubhamp476/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shubhamp476/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
