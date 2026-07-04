@@ -39,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/shubhamp476/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,5 +85,22 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamp476/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
