@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/shubhamp476/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0326-power-of-three](https://github.com/shubhamp476/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamp476/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [3945-digit-frequency-score](https://github.com/shubhamp476/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shubhamp476/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamp476/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [3945-digit-frequency-score](https://github.com/shubhamp476/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
