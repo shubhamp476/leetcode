@@ -36,6 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shubhamp476/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/shubhamp476/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/shubhamp476/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/shubhamp476/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shubhamp476/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/shubhamp476/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/shubhamp476/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shubhamp476/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamp476/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/shubhamp476/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [3945-digit-frequency-score](https://github.com/shubhamp476/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -110,4 +113,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/shubhamp476/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 <!---LeetCode Topics End-->
