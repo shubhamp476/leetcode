@@ -38,6 +38,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/shubhamp476/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/shubhamp476/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shubhamp476/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/shubhamp476/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/shubhamp476/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -70,10 +71,12 @@
 | [0048-rotate-image](https://github.com/shubhamp476/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shubhamp476/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/shubhamp476/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/shubhamp476/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/shubhamp476/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +101,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shubhamp476/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/shubhamp476/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shubhamp476/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/shubhamp476/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3945-digit-frequency-score](https://github.com/shubhamp476/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
