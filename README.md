@@ -64,6 +64,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/shubhamp476/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamp476/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/shubhamp476/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shubhamp476/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/shubhamp476/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -120,4 +122,8 @@
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shubhamp476/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/shubhamp476/leetcode/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
