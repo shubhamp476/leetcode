@@ -27,6 +27,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shubhamp476/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/shubhamp476/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/shubhamp476/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shubhamp476/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -97,6 +98,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shubhamp476/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamp476/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamp476/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
