@@ -22,6 +22,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shubhamp476/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/shubhamp476/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shubhamp476/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Array
@@ -64,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/shubhamp476/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/shubhamp476/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamp476/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/shubhamp476/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shubhamp476/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -99,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shubhamp476/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/shubhamp476/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamp476/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/shubhamp476/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
