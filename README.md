@@ -115,6 +115,7 @@
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/shubhamp476/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/shubhamp476/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0649-dota2-senate](https://github.com/shubhamp476/leetcode/tree/main/0649-dota2-senate/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,9 +136,14 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0649-dota2-senate](https://github.com/shubhamp476/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/shubhamp476/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/shubhamp476/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/shubhamp476/leetcode/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
