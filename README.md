@@ -97,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shubhamp476/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/shubhamp476/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +132,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/shubhamp476/leetcode/tree/main/0392-is-subsequence/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/shubhamp476/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/shubhamp476/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
