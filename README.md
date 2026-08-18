@@ -32,6 +32,7 @@
 | [0027-remove-element](https://github.com/shubhamp476/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/shubhamp476/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shubhamp476/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamp476/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/shubhamp476/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shubhamp476/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/shubhamp476/leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -134,6 +135,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhamp476/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/shubhamp476/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
