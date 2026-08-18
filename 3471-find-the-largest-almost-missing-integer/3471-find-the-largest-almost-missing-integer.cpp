@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int largestInteger(vector<int>& nums, int k) {
+        int n = nums.size();
+        int count[51] = {0};
+
+        for(int i = 0 ; i<= n-k ; i++){
+            bool seen[51] = {0};
+            for(int j = i ; j < i+k ; j++){
+                if(!seen[nums[j]]){
+                    count[nums[j]]++;
+                    seen[nums[j]] = true;
+                }
+            } 
+        }
+        int ans = -1;
+        for(int i = 0 ; i <51 ; i++){
+            if(count[i]==1){
+                ans = i;
+            }
+        }
+        return ans;
+    }
+};
