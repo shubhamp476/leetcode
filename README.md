@@ -42,6 +42,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shubhamp476/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/shubhamp476/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/shubhamp476/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamp476/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/shubhamp476/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shubhamp476/leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/shubhamp476/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shubhamp476/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/shubhamp476/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
