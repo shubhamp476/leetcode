@@ -8,6 +8,7 @@
 | [0048-rotate-image](https://github.com/shubhamp476/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0326-power-of-three](https://github.com/shubhamp476/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/shubhamp476/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhamp476/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3945-digit-frequency-score](https://github.com/shubhamp476/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
